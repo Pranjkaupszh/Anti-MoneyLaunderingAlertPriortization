@@ -1,6 +1,6 @@
 🚨 AML Alert Prioritization using Machine Learning & Network Analysis
 
-An end-to-end system to rank suspicious financial transactions so investigators focus on the highest-risk alerts first.
+A system to rank suspicious financial transactions so investigators focus on the highest-risk alerts first.
 
 📌 Problem Statement
 
